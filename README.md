@@ -1,5 +1,3 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=665539593)
-
 # Rust template
 
 _This template repository is part of a 4-week Rust course, [start on week 1 here](https://github.com/alfredodeza/rust-setup) if you want to learn more about Rust!_
@@ -21,6 +19,7 @@ This is the Rust template used as part of the [Rust Bootcamp](https://s.deza.pe/
 
 [![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
 
+=======
 ## Get started
 
 To get started with this template, once you've [generated the repository](https://github.com/alfredodeza/rust-template/generate), run the following `cargo` command (replace my-project with the name of your project):
